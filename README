@@ -1,0 +1,16 @@
+# Batalla de Dados
+
+Pequeño juego web creado con **HTML, CSS, JavaScript y Bootstrap**.
+
+Dos jugadores compiten lanzando dados virtuales hasta que uno gana 5 rondas.  
+Incluye animaciones, validaciones de nombres, confeti y estadísticas por jugador.
+
+## Cómo ejecutar
+1. Abrí el archivo `index.html` en tu navegador.
+2. Ingresá los nombres de los jugadores.
+3. ¡Presioná **Jugar** y comenzá la batalla!
+
+## Tecnologías
+- HTML5  
+- CSS3 (Bootstrap 5.3)  
+- JavaScript  
